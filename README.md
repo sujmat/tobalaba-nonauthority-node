@@ -7,6 +7,15 @@ I usually connect to different blockchains from my development machine and prefe
 ```
 brew install rust
 ```
+-  Install rustup
+```
+curl https://sh.rustup.rs -sSf | sh
+```
+- Add this to your bash_profile
+```
+source $HOME/.cargo/env
+export PATH="$HOME/.cargo/bin:$PATH"
+```
 -  Make sure you have the latest rust compiler by running 
 ```
 rustup update stable
