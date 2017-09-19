@@ -1,4 +1,4 @@
-# tobalaba-nonauthority-node
+# tobalaba-nonauthority-node for local development
 
 I usually connect to different blockchains from my development machine and prefer to modify the default member.toml to place the particular blockchain data into specific directories. Please modify member.toml to your preferred directories.
 
