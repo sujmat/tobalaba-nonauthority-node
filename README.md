@@ -3,10 +3,6 @@
 I usually connect to different blockchains from my development machine and prefer to modify the default member.toml to place the particular blockchain data into specific directories. Please modify member.toml to your preferred directories.
 
 ## Steps to install parity from source
--  Install rust on your machine
-```
-brew install rust
-```
 -  Install rustup
 ```
 curl https://sh.rustup.rs -sSf | sh
